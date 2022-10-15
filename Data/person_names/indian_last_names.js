@@ -108,5 +108,13 @@ var lastNames = [
     "Chander",
     "Chandra",
     "Chandran",
-    "Chatterjee"
+    "Chatterjee",
+    "Gupta",
+    "Rai",
+    "Munda",
+    "Negi",
+    "Ram",
+    "Kashyap",
+     "Yadav"
+    
 ]
